@@ -1,0 +1,11 @@
+#embed-iframe {
+  border: 10px solid black;
+}
+
+.play-btn {
+  background-color: rgb(84, 212, 84);
+  padding: 10;
+  color: white;
+  border-radius: 5px;
+  width: fit-content;
+}
